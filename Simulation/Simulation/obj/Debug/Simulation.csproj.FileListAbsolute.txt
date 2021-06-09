@@ -1,0 +1,10 @@
+G:\Simul\Simulation\Simulation\bin\Debug\Simulation.exe.config
+G:\Simul\Simulation\Simulation\bin\Debug\Simulation.exe
+G:\Simul\Simulation\Simulation\bin\Debug\Simulation.pdb
+G:\Simul\Simulation\Simulation\obj\Debug\Simulation.csprojAssemblyReference.cache
+G:\Simul\Simulation\Simulation\obj\Debug\Simulation.Form1.resources
+G:\Simul\Simulation\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+G:\Simul\Simulation\Simulation\obj\Debug\Simulation.csproj.GenerateResource.cache
+G:\Simul\Simulation\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+G:\Simul\Simulation\Simulation\obj\Debug\Simulation.exe
+G:\Simul\Simulation\Simulation\obj\Debug\Simulation.pdb
